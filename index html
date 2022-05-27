@@ -1,0 +1,23 @@
+<!Doctype html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1.0">
+<meta http-equiv="X-UA-compatible" content="ie=edge">
+<title>Document</title>
+</head>
+<body>
+<a href="About .html">About page</a>
+<br>
+<br>
+ <a href="https://www.Africa.com/" target="blank">Visit Africa for more information</a>
+<h3>image of Africa</h3>
+<!--Africa image-->
+<img src="Africa.jpg" alt="image of Africa">
+<h3>image of Forest</h3>
+
+<image src="Forest.jpg" alt="image of Forest"> 
+
+ 
+</body>
+</html>
